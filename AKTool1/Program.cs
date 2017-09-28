@@ -10,6 +10,7 @@ namespace AKTool1
     {
         static void Main(string[] args)
         {
+            int x = 0;
         }
     }
 }
